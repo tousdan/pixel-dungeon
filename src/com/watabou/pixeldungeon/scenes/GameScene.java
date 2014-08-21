@@ -73,6 +73,7 @@ import com.watabou.pixeldungeon.windows.WndBag;
 import com.watabou.pixeldungeon.windows.WndStory;
 import com.watabou.utils.Random;
 
+//A comment?
 public class GameScene extends PixelScene {
 	
 	private static final String TXT_WELCOME			= "Welcome to the level %d of Pixel Dungeon!";
